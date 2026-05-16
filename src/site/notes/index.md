@@ -7,25 +7,4 @@ Hi there! This is a personal Obsidian export for sharing information with friend
 
 Use the sidebar to browse what is available.
 
-## Food Spots
-
-
-```base
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.folder.startsWith("Food Spots")
-    order:
-      - file.name
-      - cuisine
-      - regions
-      - tags
-      - source
-    markers: bullet
-    indentProperties: false
-    columnSize:
-      note.tags: 379
-
-```
+See [[Hosting Portland Guests\|Hosting Portland Guests]] if I linked this site to you when you were thinking of visiting Portland!
