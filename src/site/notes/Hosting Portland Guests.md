@@ -50,7 +50,7 @@ views:
     name: Table
     filters:
       and:
-        - file.folder.startsWith("Food Spots")
+        - "!cuisine.isEmpty()"
     order:
       - file.name
       - cuisine

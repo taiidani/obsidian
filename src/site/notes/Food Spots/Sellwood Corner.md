@@ -6,7 +6,7 @@
 
 Fairly small food pod, but in a great location of Sellwood if you're in the area.
 
-Hurry Back ice cream 🍦Very popular
+[[Food Spots/Hurry Back Ice Cream\|Hurry Back Ice Cream]] 🍦Very popular
 
 There's a small game shop across the street.
 

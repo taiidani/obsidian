@@ -8,6 +8,6 @@ Go-to Thai Food cart for Merrett.
 
 The dessert cart has amazing watermelon fresca in the summer
 
-Potato Champion
+[[Food Spots/Potato Champion\|Potato Champion]]
 - Poutine 🤤
 - This was the first cart in the pod - it created Cartopia!
