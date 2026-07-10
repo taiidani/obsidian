@@ -38,6 +38,8 @@
 
 A selection of food spots that we've been to or know are excellent in the area.
 
+For groceries, Trader Joe's is just down the street from us, and New Seasons and Safeway are a five minute drive away in the Woodstock neighborhood.
+
 > [!NOTE] Diet Tags
 > Vegan & Gluten Free tags imply that they are friendly to these diets, not necessarily that they are exclusive to people looking for those dietary paths.
 
