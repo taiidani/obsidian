@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/hosting-portland-guests/","dg-note-properties":{}}
 ---
 
-
 ## Views
 
 - Pittock Mansion
