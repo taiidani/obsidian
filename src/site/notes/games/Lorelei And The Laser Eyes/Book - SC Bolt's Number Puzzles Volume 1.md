@@ -9,10 +9,10 @@
 ![Pasted image 20261015223707.png](/img/user/games/Lorelei%20And%20The%20Laser%20Eyes/attachments/Pasted%20image%2020261015223707.png)
 
 ![Pasted image 20261015223745.png](/img/user/games/Lorelei%20And%20The%20Laser%20Eyes/attachments/Pasted%20image%2020261015223745.png)
-Tentative: 60
+Answer: 60
 
 ![Pasted image 20261015223759.png](/img/user/games/Lorelei%20And%20The%20Laser%20Eyes/attachments/Pasted%20image%2020261015223759.png)
-
+Answer: 60
 
 ![Pasted image 20261015223810.png](/img/user/games/Lorelei%20And%20The%20Laser%20Eyes/attachments/Pasted%20image%2020261015223810.png)
 Answer: 90
@@ -21,7 +21,7 @@ Answer: 90
 Answer: 67
 
 ![Pasted image 20261015223848.png](/img/user/games/Lorelei%20And%20The%20Laser%20Eyes/attachments/Pasted%20image%2020261015223848.png)
-Tentative answer 44
+Tentative answer 41
 
 
 ![Pasted image 20261015224034.png](/img/user/games/Lorelei%20And%20The%20Laser%20Eyes/attachments/Pasted%20image%2020261015224034.png)

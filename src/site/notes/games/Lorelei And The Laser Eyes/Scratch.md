@@ -65,20 +65,3 @@ This looks related to the statues. So "Creator" is not crossed out
 ## Hotel Map
 
 ![Pasted image 20261015222451.png](/img/user/games/Lorelei%20And%20The%20Laser%20Eyes/attachments/Pasted%20image%2020261015222451.png)
-
-## Basement Crafts Room
-
-![Pasted image 20261015222731.png](/img/user/games/Lorelei%20And%20The%20Laser%20Eyes/attachments/Pasted%20image%2020261015222731.png)
-
-Room layout, or "OEZO" letters?
-
-## Back Craft Room
-
-![Pasted image 20261015222855.png](/img/user/games/Lorelei%20And%20The%20Laser%20Eyes/attachments/Pasted%20image%2020261015222855.png)
-
-Room layout, hat highlighted, or "LOREZO" letters
-
-
-## Hallway
-
-[[games/Lorelei And The Laser Eyes/Book - Renzo Nero - Un Animale Terrible\|Book - Renzo Nero - Un Animale Terrible]]
